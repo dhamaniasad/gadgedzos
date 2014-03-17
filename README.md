@@ -10,3 +10,7 @@ Gadgedz OS was an operating system with utility and usability in mind. In the wo
 ### History
 
 Initially, Gadgedz OS was based on SUSE Linux, and then was moved to Fedora, then to Debian, before finally moving to Ubuntu. None of the versions apart from the one based on Ubuntu was released to the public. 
+
+### Release 0.1(Alpha)
+
+Now if you download the 0.1 Alpha release and mount the ISO image, you might notice that the disk image is identified as OPENQBO rather than Gadgedz OS. This is because I was in a hurry for the release, and at the last moment, I broke something. This resulted in the image becoming unbootable, and as I had little time on my hand, I grabbed whichever bootable ISO image based on Ubuntu I could find on my hard drive, and then basically used it as a template for my ISO.
