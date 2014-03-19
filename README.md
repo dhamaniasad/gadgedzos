@@ -17,4 +17,4 @@ Now if you download the 0.1 Alpha release and mount the ISO image, you might not
 
 ### Download and source code
 
-Honoring GitHub's file size limits, I'm not going to be hosting this project on GitHub, no matter how much I love it and prefer it. I'll be hosting the binaries and source code on (SourceForge)[https://sourceforge.net/p/gadgedzos]. 
+Honoring GitHub's file size limits, I'm not going to be hosting this project on GitHub, no matter how much I love it and prefer it. I'll be hosting the binaries and source code on [SourceForge](https://sourceforge.net/p/gadgedzos). 
